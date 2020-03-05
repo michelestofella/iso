@@ -1,6 +1,6 @@
 # iso
 
-Python script to calculate theoretical isotopic envelope given intrinsic rates and protection factors.
+**iso.py** is a python script to calculate theoretical isotopic envelope given intrinsic rates and protection factors.
 
 Parameters to be parsed:
 * `--ass` is the file containing assignments (format example in file `moprp.ass`)
